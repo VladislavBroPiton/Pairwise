@@ -27,3 +27,13 @@
 ОС: Windows, macOS  
 Дисплей: 1080p, 4K  
 Попарное тестирование создаст комбинации:  
+Браузер |	ОС |	Дисплей
+:---|:---:|---:
+Chrome	Windows	1080p
+Chrome	Windows	4K
+Chrome	macOS	1080p
+Chrome	macOS	4K
+Firefox	Windows	1080p
+Firefox	Windows	4K
+Firefox	macOS	1080p
+Firefox	macOS	4K
